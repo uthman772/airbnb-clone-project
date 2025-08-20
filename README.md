@@ -24,7 +24,7 @@ Caching: Use caching strategies to reduce database load and improve performance.
 
 4.Feature Breakdown
 
-5. API security Overview
+5. API Security
    REST API: Detailed documentation available through the OpenAPI standard, including endpoints for users, properties, bookings, and payments.
 GraphQL API: Provides a flexible query language for retrieving and manipulating data.
 
