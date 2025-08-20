@@ -18,7 +18,7 @@ Docker: Containerization tool for consistent development and deployment environm
 CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
 
 
-3. Database design 
+3. Database Design 
 Indexing: Implement indexes for fast retrieval of frequently accessed data.
 Caching: Use caching strategies to reduce database load and improve performance.
 
