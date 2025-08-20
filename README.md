@@ -22,7 +22,7 @@ CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
 Indexing: Implement indexes for fast retrieval of frequently accessed data.
 Caching: Use caching strategies to reduce database load and improve performance.
 
-4.Feature Breakdown
+4. Feature Breakdown
 
 5. API Security
    REST API: Detailed documentation available through the OpenAPI standard, including endpoints for users, properties, bookings, and payments.
